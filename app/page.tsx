@@ -1,4 +1,4 @@
-import { TableData, fetchTableData, calculateResults } from './utils/data'
+import { fetchTableData, calculateResults } from './utils/data'
 import {
   Table,
   TableBody,
@@ -71,4 +71,3 @@ export default async function Home() {
     </main>
   )
 }
-
