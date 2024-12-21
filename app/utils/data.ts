@@ -30,4 +30,3 @@ export function calculateResults(data: TableData[]) {
     charlie: getValue('A13') * getValue('A12')
   };
 }
-
